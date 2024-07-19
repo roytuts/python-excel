@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/read-excel-file-using-python/
+Please follow the tutorial https://roytuts.com/read-excel-file-using-python/
